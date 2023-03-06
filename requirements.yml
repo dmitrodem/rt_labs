@@ -1,0 +1,16 @@
+name: my-environment
+channels:
+  - conda-forge
+dependencies:
+  - python
+  - numpy
+  - scipy
+  - pandas
+  - plotly
+  - chart-studio
+  - matplotlib
+  - pyspice
+  - schemdraw
+  - pip
+  - ngspice
+  - ngspice-lib
