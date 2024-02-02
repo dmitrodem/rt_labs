@@ -6,3 +6,6 @@ chart-studio
 matplotlib
 pyspice
 schemdraw
+ipyparallel
+pyarrow
+ipympl
